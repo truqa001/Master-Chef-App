@@ -1,0 +1,9 @@
+ul li {
+    list-style-type: circle;
+}
+
+h4 {
+    border-bottom: 4px solid #ffe32c;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}

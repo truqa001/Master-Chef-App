@@ -1,0 +1,21 @@
+html {
+  overflow-y: scroll;
+}
+
+.App {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+.pagination-container {
+  text-align: right;
+}
+.page-item.active .page-link {
+  background-color: #EE9617
+  ;
+  border-color: #EE9617
+  ;
+}

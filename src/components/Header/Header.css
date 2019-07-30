@@ -1,0 +1,13 @@
+header {
+  background-image: linear-gradient(217deg, #fee64b, #ffe32c);
+  margin-bottom: 20px;
+  text-align: center;
+  border-bottom-right-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+
+.logo {
+  width: 200px;
+  height: auto;
+}
