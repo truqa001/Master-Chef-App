@@ -43,7 +43,7 @@ class SearchBar extends Component {
 
   render() {
     return (
-      <div className="pl-5 pr-5 pb-5">
+      <div className="pl-5 pr-5 pb-5 search-bar-container">
         <SearchField
           accessibilityLabel="Search Field"
           id="searchField"
