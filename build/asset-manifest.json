@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Master-Chef-App/static/css/main.94ba3a96.chunk.css",
-    "main.js": "/Master-Chef-App/static/js/main.7835cef8.chunk.js",
-    "main.js.map": "/Master-Chef-App/static/js/main.7835cef8.chunk.js.map",
-    "runtime~main.js": "/Master-Chef-App/static/js/runtime~main.62b0e0e2.js",
-    "runtime~main.js.map": "/Master-Chef-App/static/js/runtime~main.62b0e0e2.js.map",
-    "static/css/2.cfa49cb9.chunk.css": "/Master-Chef-App/static/css/2.cfa49cb9.chunk.css",
-    "static/js/2.bf01e044.chunk.js": "/Master-Chef-App/static/js/2.bf01e044.chunk.js",
-    "static/js/2.bf01e044.chunk.js.map": "/Master-Chef-App/static/js/2.bf01e044.chunk.js.map",
-    "index.html": "/Master-Chef-App/index.html",
-    "precache-manifest.25a0ef37c288c20dc28a50a96210757e.js": "/Master-Chef-App/precache-manifest.25a0ef37c288c20dc28a50a96210757e.js",
-    "service-worker.js": "/Master-Chef-App/service-worker.js",
-    "static/css/2.cfa49cb9.chunk.css.map": "/Master-Chef-App/static/css/2.cfa49cb9.chunk.css.map",
-    "static/css/main.94ba3a96.chunk.css.map": "/Master-Chef-App/static/css/main.94ba3a96.chunk.css.map",
-    "static/media/home-img.jpg": "/Master-Chef-App/static/media/home-img.bb2f6ab3.jpg",
-    "static/media/logo.png": "/Master-Chef-App/static/media/logo.f64c5586.png"
+    "main.css": "/static/css/main.94ba3a96.chunk.css",
+    "main.js": "/static/js/main.1cf7e50f.chunk.js",
+    "main.js.map": "/static/js/main.1cf7e50f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.cfa49cb9.chunk.css": "/static/css/2.cfa49cb9.chunk.css",
+    "static/js/2.bf01e044.chunk.js": "/static/js/2.bf01e044.chunk.js",
+    "static/js/2.bf01e044.chunk.js.map": "/static/js/2.bf01e044.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba44a2c861fa7e671d6a5928e6082043.js": "/precache-manifest.ba44a2c861fa7e671d6a5928e6082043.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cfa49cb9.chunk.css.map": "/static/css/2.cfa49cb9.chunk.css.map",
+    "static/css/main.94ba3a96.chunk.css.map": "/static/css/main.94ba3a96.chunk.css.map",
+    "static/media/home-img.jpg": "/static/media/home-img.bb2f6ab3.jpg",
+    "static/media/logo.png": "/static/media/logo.f64c5586.png"
   }
 }
