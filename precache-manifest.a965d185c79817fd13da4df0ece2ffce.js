@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f2c5f950727eab98f2a82e06acbebd2",
+    "revision": "dc14429b36d952c43fe93a8c2b3421ad",
     "url": "/Master-Chef-App/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Master-Chef-App/static/css/2.cfa49cb9.chunk.css"
   },
   {
-    "revision": "098977945bdfc186cf12",
+    "revision": "32b19c22709cda6b9695",
     "url": "/Master-Chef-App/static/css/main.478c3405.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Master-Chef-App/static/js/2.bf01e044.chunk.js"
   },
   {
-    "revision": "098977945bdfc186cf12",
-    "url": "/Master-Chef-App/static/js/main.684688f9.chunk.js"
+    "revision": "32b19c22709cda6b9695",
+    "url": "/Master-Chef-App/static/js/main.41cf8d47.chunk.js"
   },
   {
     "revision": "85f178d263e820ac532b",
