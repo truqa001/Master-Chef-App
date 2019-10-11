@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Master-Chef-App/precache-manifest.a965d185c79817fd13da4df0ece2ffce.js"
+  "/Master-Chef-App/precache-manifest.6f645c196d8f553929a88235bc34a171.js"
 );
 
 self.addEventListener('message', (event) => {
