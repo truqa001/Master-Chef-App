@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Master-Chef-App/static/css/main.478c3405.chunk.css",
+    "main.js": "/Master-Chef-App/static/js/main.41cf8d47.chunk.js",
+    "main.js.map": "/Master-Chef-App/static/js/main.41cf8d47.chunk.js.map",
+    "runtime~main.js": "/Master-Chef-App/static/js/runtime~main.62b0e0e2.js",
+    "runtime~main.js.map": "/Master-Chef-App/static/js/runtime~main.62b0e0e2.js.map",
+    "static/css/2.cfa49cb9.chunk.css": "/Master-Chef-App/static/css/2.cfa49cb9.chunk.css",
+    "static/js/2.bf01e044.chunk.js": "/Master-Chef-App/static/js/2.bf01e044.chunk.js",
+    "static/js/2.bf01e044.chunk.js.map": "/Master-Chef-App/static/js/2.bf01e044.chunk.js.map",
+    "index.html": "/Master-Chef-App/index.html",
+    "precache-manifest.a965d185c79817fd13da4df0ece2ffce.js": "/Master-Chef-App/precache-manifest.a965d185c79817fd13da4df0ece2ffce.js",
+    "service-worker.js": "/Master-Chef-App/service-worker.js",
+    "static/css/2.cfa49cb9.chunk.css.map": "/Master-Chef-App/static/css/2.cfa49cb9.chunk.css.map",
+    "static/css/main.478c3405.chunk.css.map": "/Master-Chef-App/static/css/main.478c3405.chunk.css.map",
+    "static/media/home-img.jpg": "/Master-Chef-App/static/media/home-img.bb2f6ab3.jpg",
+    "static/media/logo.png": "/Master-Chef-App/static/media/logo.f64c5586.png"
+  }
+}
